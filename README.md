@@ -3,11 +3,11 @@
 # 📊 GitHub Stats:
 
 <p align="left">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=Aligatrone&theme=radical&hide_border=true&include_all_commits=false&count_private=true" />
+  <img width="43%" src="https://github-readme-stats.vercel.app/api?username=Aligatrone&theme=radical&hide_border=true&include_all_commits=false&count_private=true" />
   
  
   
-   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aligatrone&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aligatrone&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 <br/>
