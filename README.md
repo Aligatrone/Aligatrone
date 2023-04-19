@@ -3,9 +3,9 @@
 # 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aligatrone&theme=radical&hide_border=true&include_all_commits=false&count_private=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Aligatrone&theme=radical&hide_border=true&include_all_commits=false&count_private=true" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aligatrone&theme=radical&hide_border=true" />
+  <img widtd="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aligatrone&theme=radical&hide_border=true" />
 </p>
 
 <br/>
