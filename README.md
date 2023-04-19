@@ -3,17 +3,17 @@
 # 📊 GitHub Stats:
 
 <p align="left">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=Aligatrone&theme=radical&hide_border=true&include_all_commits=false&count_private=true" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Aligatrone&theme=radical&hide_border=true&include_all_commits=false&count_private=true" />
   
  
   
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aligatrone&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aligatrone&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 <br/>
 
 <p>
-  <img widtd="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aligatrone&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aligatrone&theme=radical&hide_border=true" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
