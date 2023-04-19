@@ -1,4 +1,4 @@
-# Puna siua!
+# Puna siua la cafelutza Java!
 
 # 📊 GitHub Stats:
 
