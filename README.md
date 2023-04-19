@@ -3,7 +3,7 @@
 # 📊 GitHub Stats:
 
 <p align="left">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Aligatrone&theme=radical&hide_border=true&include_all_commits=false&count_private=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=Aligatrone&theme=radical&hide_border=true&include_all_commits=false&count_private=true" />
   
  
   
